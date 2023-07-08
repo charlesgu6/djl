@@ -28,3 +28,6 @@ node_modules/
 
 #vscode
 .vscode
+
+#java
+.java-version
